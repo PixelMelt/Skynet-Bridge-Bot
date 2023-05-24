@@ -1,0 +1,18 @@
+{
+    "username": "smolbotboi",
+    "email": "abc@efg.com",
+    "password": "aalakjsdhflakjsdhf",
+
+    "owner": "pixelmelt",
+
+    "token": "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX",
+    "guildid": "0000000000000000000",
+    "channelid": "0000000000000000000",
+    "botownerid": "0000000000000000000",
+
+    "prefix": "bot",
+
+    "debug": "on",
+
+    "webport": 2837
+}
